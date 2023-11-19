@@ -130,7 +130,7 @@ body {
 .hero {
    padding-top: 125px;
    padding-bottom: 125px;
-   background: url("../images/hero/background.png") 0 0 / cover no-repeat;
+   background: url("../images/hero/background.png") right bottom / cover no-repeat;
 }
 .hero__container {
    padding-left: 30px;
